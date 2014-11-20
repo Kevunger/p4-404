@@ -1,0 +1,6 @@
+div {
+	height: 500px;
+	background: url("../img/tpb.svg") no-repeat;
+	background-size: 400px 400px;
+    background-position: center;
+}
